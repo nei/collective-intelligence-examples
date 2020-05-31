@@ -43,10 +43,12 @@ A slightly more sophisticated way to determine the similarity between people’s
 
 ##### Movies suggestions for the top 3 from the rank based on Pearson's method:
 
-Claudia Puig is most likely to dislike "Lady in the Water" from Michael Phillips
-Michael Phillips is most likely to enjoy "Just My Luck" from Claudia Puig
-Michael Phillips is most likely to dislike "You, Me and Dupree" from Claudia Puig
-Toby is most likely to dislike "Lady in the Water" from Lisa Rose
-Toby is most likely to enjoy "Just My Luck" from Lisa Rose
-Toby is most likely to enjoy "The Night Listener" from Lisa Rose
-Jack Matthews is most likely to dislike "Just My Luck" from Gene Seymour
+```
+| Claudia Puig is most likely to dislike "Lady in the Water" from Michael Phillips
+| Michael Phillips is most likely to enjoy "Just My Luck" from Claudia Puig
+| Michael Phillips is most likely to dislike "You, Me and Dupree" from Claudia Puig
+| Toby is most likely to dislike "Lady in the Water" from Lisa Rose
+| Toby is most likely to enjoy "Just My Luck" from Lisa Rose
+| Toby is most likely to enjoy "The Night Listener" from Lisa Rose
+| Jack Matthews is most likely to dislike "Just My Luck" from Gene Seymour
+```
