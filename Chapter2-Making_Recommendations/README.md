@@ -14,8 +14,8 @@ A slightly more sophisticated way to determine the similarity between people’s
 
 ### Results
 ```
-| Euclidean       	                  	| Score    	|| Pearson method                          	| Score    	    |
-|------------------	|------------------	|----------	||---------------------	|------------------	|--------------	|
+| Euclidean       	                  	| Score    	|| Pearson method                        	| Score    	  |
+|------------------	|------------------	|----------	||-------------------	|------------------	|------------	|
 | Gene Seymour     	| Jack Matthews    	| 0.666667 	|| Michael Phillips 	| Claudia Puig     	| 1.000000  	|
 | Michael Phillips 	| Claudia Puig     	| 0.535898 	|| Lisa Rose        	| Toby             	| 0.991241  	|
 | Lisa Rose        	| Michael Phillips 	| 0.472136 	|| Gene Seymour     	| Jack Matthews    	| 0.963796  	|
